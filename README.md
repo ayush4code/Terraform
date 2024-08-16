@@ -355,3 +355,20 @@ output "string-print" {
 
 
 ![image](https://github.com/user-attachments/assets/6063837a-19b2-41e0-bd3e-63ffb8a566cb)
+
+
+
+
+variable
+
+Wednesday, May 17, 2023
+8:54 AM
+
+![image](https://github.com/user-attachments/assets/374d1340-b663-468d-a4e5-890136a179d1)
+
+
+
+
+Declaration will be in main.tf or variable.tf
+Value should be in variable.tfvars
+
