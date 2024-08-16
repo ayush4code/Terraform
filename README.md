@@ -1,3 +1,7 @@
+<img width="215" alt="image" src="https://github.com/user-attachments/assets/ae2feecf-54b3-4270-b337-212543397be3">
+
+
+
 Self - note
 
 Monday, September 19, 2022
